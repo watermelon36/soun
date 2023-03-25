@@ -1,0 +1,35 @@
+.header_div{
+    background-color: rgb(155, 250, 123);
+    color:white;
+}
+.header_div p{
+    font-style: oblique;
+    font-weight: 3px;
+    letter-spacing: 2px;
+    font-size:20px;
+}
+.main_div{
+    background-image: linear-gradient(rgb(255, 133, 212), rgb(255, 193, 107), rgb(244, 247, 111));
+    
+}
+.copy_right_footer{
+    position: fixed bottom 0;;
+    background-color: white;
+    color: coral;
+    width:100px;
+    font-size: 15px;
+    line-height: 30px;
+    text-shadow: 2px;
+
+}
+
+body{
+    font-family:'Special Elite';
+}
+.main_div button{
+font-style: oblique;
+margin-top: 4px;
+width:80px;
+font-weight: 100;
+letter-spacing: 2px;
+}
